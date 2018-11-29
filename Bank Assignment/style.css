@@ -1,0 +1,55 @@
+.text{
+    color:darkblue;
+    font-size: 60px;
+    position: relative;
+    left:20% ;
+    top: 15px;
+    font-family: 'Times New Roman';
+     }
+
+
+.two{
+    position: relative;
+    float: left;
+    top: 0.5px;
+    left: 20px;
+   
+   }
+
+.three{
+
+position: fixed;
+float :right;
+bottom: 0px;
+right: 30px;
+} 
+
+.four{
+    color: darkblue;
+    font-size: 25px;
+    position: fixed;
+    right: 70px;
+    top: 90px;
+}
+
+a{
+   text-decoration: none;
+   color:black;
+
+
+}
+
+table, th, td {
+
+    padding: 2px;
+    height: 50px;
+    width: 900px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+th, td {
+padding: 1px;
+background-color: lightgray;
+}
